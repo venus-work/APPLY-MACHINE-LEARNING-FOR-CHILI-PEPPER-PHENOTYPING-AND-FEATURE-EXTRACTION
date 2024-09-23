@@ -17,7 +17,12 @@ cd yolov7
 # Install requirement of yolov7
 pip install -r requirements.txt
 ```
-
+Move file object.py to utils and my_detect.py to main
+- yolov7
+  - my_detect.py
+  - utils
+    - object.py
+  
 ## Running
 ``` shell
 # bash server_run.sh
