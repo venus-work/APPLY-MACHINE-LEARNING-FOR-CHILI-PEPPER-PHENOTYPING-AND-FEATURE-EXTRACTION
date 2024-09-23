@@ -1,0 +1,1 @@
+python my_detect.py --weights best.pt --source tempDir/004_IT158286_1.jpg --save-txt --save-conf --save-csv --save-img-para
