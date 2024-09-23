@@ -17,4 +17,4 @@ cd yolov7
 # Install requirement of yolov7
 pip install -r requirements.txt
 ```
-Get weight [best.pt]([https://drive.google.com/file/d/1kDIWM99wJdeHkKppbv47rOuQnX892l_4/view?usp=sharing](https://drive.google.com/file/d/1JsGx5zIljkLSFonu2AN3RNPqWJCovOkN/view?usp=sharing))
+Get weight [best.pt](https://drive.google.com/file/d/1kDIWM99wJdeHkKppbv47rOuQnX892l_4/view?usp=sharing)
