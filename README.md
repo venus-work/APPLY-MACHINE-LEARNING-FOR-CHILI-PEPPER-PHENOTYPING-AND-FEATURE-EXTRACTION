@@ -23,3 +23,4 @@ pip install -r requirements.txt
 # bash server_run.sh
 ```
 Get weight [best.pt](https://drive.google.com/file/d/1kDIWM99wJdeHkKppbv47rOuQnX892l_4/view?usp=sharing)
+Get traced_model [traced_model.pt](https://drive.google.com/file/d/11fd7yTdXckIWCGFWO7ZvUMbaAL-fBsq6/view?usp=sharing)
