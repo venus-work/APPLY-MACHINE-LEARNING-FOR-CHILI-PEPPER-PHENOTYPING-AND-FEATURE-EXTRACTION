@@ -17,4 +17,9 @@ cd yolov7
 # Install requirement of yolov7
 pip install -r requirements.txt
 ```
+
+## Running
+``` shell
+# bash server_run.sh
+```
 Get weight [best.pt](https://drive.google.com/file/d/1kDIWM99wJdeHkKppbv47rOuQnX892l_4/view?usp=sharing)
